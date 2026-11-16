@@ -6,7 +6,7 @@
     <title>Mi primera página web</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif; 
             background-color: #f4f4f9;
             color: #333333; 
             max-width: 800px;
